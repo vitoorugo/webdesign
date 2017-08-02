@@ -1,4 +1,4 @@
-# webdesign - Aula 01
+# Webdesign - Aula 01
 
 ## Conteúdo
 - Introdução a disciplina
@@ -8,6 +8,6 @@
 - Discussão sobre briefing e prototipagem de sites
 
 ## Atividade prática
-- Prototipagem rápida
+- Prototipagem rápida<br>
 Atividade baseada em:<br>
 https://leadership.mozilla.community/method/rapid-prototyping/
